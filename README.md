@@ -17,7 +17,7 @@ This is a Simple Python Django Portolio.The portfolio is easy  just use "/admin"
      python manage.py runserver
 
 ### Run these Commands for Hosting
-# Need to Host in AWS Follow Theses Steps:
+# Need to Host in AWS Follow These Steps:
 ### IN Ubuntu 
       1.sudo apt-get update
 ### Then

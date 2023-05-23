@@ -19,25 +19,25 @@ This is a Simple Python Django Portolio.The portfolio is easy  just use "/admin"
 ### Run these Commands for Hosting
 # Need to Host in AWS Follow These Steps:
 ### IN Ubuntu 
-      1.sudo apt-get update
+      sudo apt-get update
 ### Then
-      2.git clone https://github.com/Kavin1421/Django-Portfolio.git
+      git clone https://github.com/Kavin1421/Django-Portfolio.git
 ### for showing Directories
-      3.ls -lrt
+      ls -lrt
 ### change Directory
-      4.cd Django-Portfolio
+      cd Django-Portfolio
 ### See all Files
-      5.ls -lrt
+      ls -lrt
 ### install python
-      6.sudo apt install python3-pip -y
+      sudo apt install python3-pip -y
 ### install all requirements
       Ex: pip install whitenoise
 ### To makemigrations
-      7.python3 manage.py makemigrations
+      python3 manage.py makemigrations
 ### To Migrate
-      8.python3 manage.py migrate
+      python3 manage.py migrate
 ### For Admin
-      9.python3 manage.py createsuperuser
+      python3 manage.py createsuperuser
 
 ===>
 Username (leave blank to use 'ubuntu'): Kavin
@@ -51,11 +51,11 @@ Password (again): 1*4*@K****
 Superuser created successfully.
 
 ### To run a Server
-      10.python3 manage.py runserver 
+      python3 manage.py runserver 
 
 ### To run a Server in Custom Port
 
-      11.python3 manage.py runserver 0.0.0.0:8000
+      python3 manage.py runserver 0.0.0.0:8000
 
 ### Important steps
 

@@ -4,7 +4,7 @@ This is a Simple Python Django Portolio.The portfolio is easy  just use "/admin"
 
 
 
-## Run these Commads
+## Run these Commands for Localhost 
 ### Step 1
      pip install -r requirements.txt
 ### Step 2
@@ -16,6 +16,7 @@ This is a Simple Python Django Portolio.The portfolio is easy  just use "/admin"
 ### Step 3
      python manage.py runserver
 
+### Run these Commands for Hosting
 # Need to Host in AWS Follow Theses Steps:
 ### IN Ubuntu 
       1.sudo apt-get update

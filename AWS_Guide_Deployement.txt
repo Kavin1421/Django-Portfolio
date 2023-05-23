@@ -1,3 +1,5 @@
+ ==> Need to Host in AWS Follow These Steps:
+ 
  sudo apt-get update
 
 git clone https://github.com/Kavin1421/Django-Portfolio.git
@@ -32,9 +34,7 @@ Superuser created successfully.
 python3 manage.py runserver 
 
 
-
 python3 manage.py runserver 0.0.0.0:8000
-
 
 
 In security Groups we need to change inbound port

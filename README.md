@@ -37,11 +37,16 @@ This is a Simple Python Django Portolio.The portfolio is easy  just use "/admin"
       8.python3 manage.py migrate
 ### For Admin
       9.python3 manage.py createsuperuser
+
 ===>
 Username (leave blank to use 'ubuntu'): Kavin
+
 Email address: kkavinkumar24@gmail.com
+
 Password: 1*4*@K****
+
 Password (again): 1*4*@K****
+
 Superuser created successfully.
 
 ### To run a Server

@@ -1,0 +1,42 @@
+ sudo apt-get update
+
+git clone https://github.com/Kavin1421/Django-Portfolio.git
+
+ls -lrt
+
+cd Django-Portfolio
+
+ls -lrt
+
+sudo apt install python3-pip -y
+
+
+-==>install all requirements
+
+python3 manage.py makemigrations
+
+
+python3 manage.py migrate
+
+
+python3 manage.py createsuperuser
+
+===>
+Username (leave blank to use 'ubuntu'): Kavin
+Email address: kkavinkumar24@gmail.com
+Password: 1*4*@K****
+Password (again): 1*4*@K****
+Superuser created successfully.
+
+
+python3 manage.py runserver 
+
+
+
+python3 manage.py runserver 0.0.0.0:8000
+
+
+
+In security Groups we need to change inbound port
+
+Then all set your deployment was ready to launch!!!
